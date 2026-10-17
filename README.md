@@ -1,5 +1,7 @@
 # Domain-Decomposed Randomized Neural Networks Paper Code
 
+[![DOI](https://zenodo.org/badge/1421611742.svg)](https://doi.org/10.5281/zenodo.23435577)
+
 This repository contains the paper code for **Domain-Decomposed Randomized Neural Networks for Partial Differential Equations in Unbounded Domains**.
 
 It provides the numerical experiments for semi-unbounded, fully unbounded, perforated-domain, and time-dependent partial differential equations using domain-decomposed randomized neural networks.
@@ -170,8 +172,9 @@ If you use this code, please cite the corresponding paper:
   url           = {https://arxiv.org/abs/2606.31342}
 }
 ```
-
 The machine-readable citation metadata is also provided in `CITATION.cff`.
+
+If you use this code, please cite the corresponding paper and the archived software release: Wang, H., Dang, H., Wang, F., and Guo, S. Domain-Decomposed Randomized Neural Networks for Partial Differential Equations in Unbounded Domains. Zenodo. https://doi.org/10.5281/zenodo.23435577
 
 ## License
 
