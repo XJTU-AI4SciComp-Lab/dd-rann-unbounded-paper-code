@@ -1,6 +1,6 @@
 cff-version: 1.2.0
-message: "If you use this code, please cite the corresponding paper."
-title: "Domain-Decomposed Randomized Neural Networks Paper Code"
+message: "If you use this software, please cite it using the metadata from this file."
+title: "Domain-Decomposed Randomized Neural Networks: Code for Partial Differential Equations in Unbounded Domains"
 type: software
 authors:
   - family-names: Wang
@@ -18,7 +18,9 @@ authors:
     given-names: Shimin
     affiliation: "School of Mathematics and Statistics, Xi'an Jiaotong University"
 license: BSD-3-Clause
-version: "1.0.0"
+version: "1.0.2"
+doi: "10.5281/zenodo.23435577"
+url: "https://github.com/XJTU-AI4SciComp-Lab/sfrbe-rann-adaptive-paper-code"
 preferred-citation:
   type: article
   title: "Domain-Decomposed Randomized Neural Networks for Partial Differential Equations in Unbounded Domains"
