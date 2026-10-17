@@ -19,8 +19,8 @@ authors:
     affiliation: "School of Mathematics and Statistics, Xi'an Jiaotong University"
 license: BSD-3-Clause
 version: "1.0.2"
-doi: "10.5281/zenodo.23435577"
-url: "https://github.com/XJTU-AI4SciComp-Lab/sfrbe-rann-adaptive-paper-code"
+doi: "10.5281/zenodo.23435711"
+url: "https://github.com/XJTU-AI4SciComp-Lab/dd-rann-unbounded-paper-code"
 preferred-citation:
   type: article
   title: "Domain-Decomposed Randomized Neural Networks for Partial Differential Equations in Unbounded Domains"
