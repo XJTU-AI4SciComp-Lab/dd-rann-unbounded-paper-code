@@ -1,0 +1,1 @@
+"""Classical spectral comparison methods."""
