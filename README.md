@@ -12,7 +12,7 @@ It provides the numerical experiments for semi-unbounded, fully unbounded, perfo
 - DOI / arXiv: [arXiv:2606.31342](https://arxiv.org/abs/2606.31342)
 - Corresponding author: Fei Wang, Xi'an Jiaotong University
 - Code maintainer: Haixin Wang
-- Repository: - Repository: https://github.com/XJTU-AI4SciComp-Lab/sfrbe-rann-adaptive-paper-code
+- Repository: - Repository: https://github.com/XJTU-AI4SciComp-Lab/dd-rann-unbounded-paper-code
 
 ## Method Summary
 
